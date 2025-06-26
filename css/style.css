@@ -58,4 +58,51 @@ a {
 
 * {
   box-sizing: border-box;
+}
+
+main img {
+  height: 600px;
+}
+main .Aboutus {
+  font-size: 20px;
+  font-weight: 400;
+  padding-left: 50px;
+  padding-bottom: 50px;
+}
+main .burj-khalifa {
+  gap: 50px;
+  display: flex;
+  padding-left: 50px;
+  padding-bottom: 100px;
+}
+main .burj-khalifa p {
+  font-size: 20px;
+  font-weight: 700;
+}
+main .princess {
+  gap: 50px;
+  display: flex;
+  padding-left: 50px;
+  padding-bottom: 100px;
+}
+main .princess p {
+  width: 800px;
+  font-size: 25px;
+  font-weight: 700;
+}
+main .alarab {
+  gap: 50px;
+  display: flex;
+  padding-left: 50px;
+  padding-bottom: 100px;
+  padding-right: 50px;
+}
+main .alarab p {
+  width: 800px;
+  font-size: 19px;
+  font-weight: 700;
+}
+main .alarab img {
+  width: 700px;
+  height: 700px;
 }/*# sourceMappingURL=style.css.map */
