@@ -47,5 +47,24 @@ main {
             height: 700px;
         }
     }
-      
+}
+footer {
+    display: flex;
+    width: 100%;
+    background-color: cyan;
+    height: 400px;
+    .footer {
+       padding-left: 50px;
+       padding-top: 50px;
+        display: flex;
+        flex-direction: column;
+        gap: 15px;
+    }
+    .icon {
+    display: flex;
+    gap:  15px;
+   }
+   img {
+   padding-left: 1350px;
+   }
 }

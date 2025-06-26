@@ -105,4 +105,25 @@ main .alarab p {
 main .alarab img {
   width: 700px;
   height: 700px;
+}
+
+footer {
+  display: flex;
+  width: 100%;
+  background-color: cyan;
+  height: 400px;
+}
+footer .footer {
+  padding-left: 50px;
+  padding-top: 50px;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+footer .icon {
+  display: flex;
+  gap: 15px;
+}
+footer img {
+  padding-left: 1350px;
 }/*# sourceMappingURL=style.css.map */
